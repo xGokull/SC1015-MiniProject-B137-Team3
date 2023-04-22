@@ -36,3 +36,4 @@ This project explored the relationship between personality factors and drug cons
 1. Database: https://archive.ics.uci.edu/ml/datasets/Drug+consumption+%28quantified%29
 2. https://github.com/deepak525/Drug-Consumption/blob/master/drug.ipynb
 3. https://faroit.com/keras-docs/1.1.0/models/sequential/
+4. https://www.cnb.gov.sg/docs/default-source/drug-situation-report-documents/cnb-annual-statistics-2021.pdf
