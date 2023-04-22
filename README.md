@@ -31,3 +31,8 @@ This project explored the relationship between personality factors and drug cons
 3. Random Forest Classifier: Gokul Ramesh 
 4. SVC: Gokul Ramesh and Gupta Raghav
 5. Neural Network: Gupta Raghav
+
+## References:
+1. Database: https://archive.ics.uci.edu/ml/datasets/Drug+consumption+%28quantified%29
+2. https://github.com/deepak525/Drug-Consumption/blob/master/drug.ipynb
+3. https://faroit.com/keras-docs/1.1.0/models/sequential/
