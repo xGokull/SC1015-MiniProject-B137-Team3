@@ -24,3 +24,10 @@ A neural network was constructed with two hidden layers of six and four nodes, r
 
 ## Conclusion:
 This project explored the relationship between personality factors and drug consumption using three different models. SVC and Neural Network showed promising results. However, due to the nature of drug consumption data, the models' accuracy was affected by class imbalance. Nonetheless, the results obtained from this project could be used to further investigate the relationship between personality factors and drug consumption.
+
+## Contributions:
+1. Data Cleaning: Luo Maoyuan
+2. EDA: Luo Maoyuan and Gupta Raghav
+3. Random Forest Classifier: Gokul Ramesh 
+4. SVC: Gokul Ramesh and Gupta Raghav
+5. Neural Network: Gupta Raghav
