@@ -22,8 +22,10 @@ SVC was used, and it showed good accuracy. The model always predicted "Not a use
 ## Neural Network:
 A neural network was constructed with two hidden layers of six and four nodes, respectively. This model showed a high accuracy of 93%.
 
+
 ## Conclusion:
-This project explored the relationship between personality factors and drug consumption using three different models. SVC and Neural Network showed promising results. However, due to the nature of drug consumption data, the models' accuracy was affected by class imbalance. Nonetheless, the results obtained from this project could be used to further investigate the relationship between personality factors and drug consumption.
+This project explored the relationship between personality factors and drug consumption using three different models. SVC and Neural Network showed promising results, while Random Forest did not, and ultimately we decided that neural network was the most accurate in predicting the drug usage. However, due to the nature of drug consumption data, the models' accuracy was affected by class imbalance. Nonetheless, the results obtained from this project could be used to further investigate the relationship between personality factors and drug consumption.
+
 
 ## Contributions:
 1. Data Cleaning: Luo Maoyuan
@@ -36,4 +38,3 @@ This project explored the relationship between personality factors and drug cons
 1. Database: https://archive.ics.uci.edu/ml/datasets/Drug+consumption+%28quantified%29
 2. https://github.com/deepak525/Drug-Consumption/blob/master/drug.ipynb
 3. https://faroit.com/keras-docs/1.1.0/models/sequential/
-4. https://www.cnb.gov.sg/docs/default-source/drug-situation-report-documents/cnb-annual-statistics-2021.pdf
